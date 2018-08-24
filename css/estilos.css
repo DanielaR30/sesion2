@@ -1,0 +1,33 @@
+body{
+	background: #06F6FF;
+}
+@font-face{
+	font-family: "ka";
+	src: url('../fonts/ka.otf');
+}
+h1{
+	font-family: "ka";
+	font-size: 42px;
+}
+@font-face{
+	font-family: "re";
+	src: url('../fonts/re.ttf');
+}
+
+h2{
+	font-family: "re";
+	font-size: 42px;
+}
+@font-face{
+	font-family: "so";
+	src: url('../fonts/so.otf');
+}
+
+h3{
+	font-family: "so", arial;
+	font-size: 42px;
+}
+h4{
+	font-family: 'Indie Flower', cursive;
+	font-size: 42px;
+}
